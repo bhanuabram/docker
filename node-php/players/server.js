@@ -7,7 +7,7 @@ const PORT = 80;
 
 app.get('/', (req, res) => {
     res.json({
-        players: ['Walter', 'Jesse', 'Skyler', 'Saul', 'Mike']
+        players: ['Walter', 'Jesse', 'Skyler', 'Saul', 'Mike', 'Hank', 'Marie', 'Huell']
     });
 });
 
