@@ -1,0 +1,8 @@
+Azure vm 1:
+ssh -i swarm-instances.pem azureuser@74.235.47.66
+
+Azure vm 2:
+ssh -i swarm-instances.pem azureuser@20.172.219.230
+
+Azure vm 3:
+ssh -i swarm-instances.pem azureuser@20.168.243.67
